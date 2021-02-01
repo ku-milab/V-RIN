@@ -1,6 +1,7 @@
 # Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series
 A. W. Mulyadi, E. Jun, and H.-I. Suk, “Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series,” arXiv preprint arXiv:2003.00662, 2020. https://arxiv.org/abs/2003.00662
 
+_Accepted to IEEE Transactions on Cybernetics, 2021_
 ## Usage
 
 For the V-RIN-full using unidirectional scenario:
